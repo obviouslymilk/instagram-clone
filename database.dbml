@@ -1,0 +1,4 @@
+Project Instagram {
+    database_type: 'NoSQL'
+    Note: 'Clone of Instagram web site made with React and Firebase'
+}
